@@ -5,7 +5,6 @@ C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Coffee-Shop-App.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
@@ -18,3 +17,8 @@ C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\refint\Coffee-Shop-App.dll
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Coffee-Shop-App.pdb
 C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\ref\Coffee-Shop-App.dll
+C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\espressoPage.xaml.g.cs
+C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\HotDrinksPage.xaml.g.cs
+C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\ColdDrinksPage.xaml.g.cs
+C:\Users\theot\Documents\GitHub\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\Coffee-Shop-App\obj\Debug\netstandard2.0\Views\QuickBitesPage.xaml.g.cs
