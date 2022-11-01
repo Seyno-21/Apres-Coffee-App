@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BR+qWDIBPeTM/EeHnV/eEE/+4bOgdvcvDKCo02/rwqA6hSd0KwzbV6Qt0+XjC3E1MCboJ3d1ShgDuf6x68umqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.iOS\\Coffee-Shop-App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theot\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\theot\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\theot\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
