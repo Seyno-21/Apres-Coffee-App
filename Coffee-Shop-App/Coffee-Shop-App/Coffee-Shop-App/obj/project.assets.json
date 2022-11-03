@@ -547,11 +547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj",
+      "projectUniqueName": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj",
       "projectName": "Coffee-Shop-App",
-      "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj",
+      "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj",
       "packagesPath": "C:\\Users\\theot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\obj\\",
+      "outputPath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

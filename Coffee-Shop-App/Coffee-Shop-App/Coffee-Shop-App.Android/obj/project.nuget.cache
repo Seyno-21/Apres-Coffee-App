@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gjCNJaWzsI/cBzX6tK8l9yqKpth8h524G5smm7XeulMu/2rYsceZVMRh6ICRr6N+8Hh+8ZsMlcMnHl1Yusb7Ng==",
+  "dgSpecHash": "UX6lcclcptKamZg4E9wNeT4NWqy4j48JGz9ju8mbJEUTfFS7Fre1yYVmIulzxUaR4AtDEhQbD0zUek4cBEMnyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.Android\\Coffee-Shop-App.Android.csproj",
+  "projectFilePath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.Android\\Coffee-Shop-App.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\theot\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\theot\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

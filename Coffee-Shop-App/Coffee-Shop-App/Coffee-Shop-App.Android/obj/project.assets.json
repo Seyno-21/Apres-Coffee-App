@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.Android\\Coffee-Shop-App.Android.csproj",
+      "projectUniqueName": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.Android\\Coffee-Shop-App.Android.csproj",
       "projectName": "Coffee-Shop-App.Android",
-      "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.Android\\Coffee-Shop-App.Android.csproj",
+      "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.Android\\Coffee-Shop-App.Android.csproj",
       "packagesPath": "C:\\Users\\theot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.Android\\obj\\",
+      "outputPath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj": {
-              "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj"
+            "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj": {
+              "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj"
             }
           }
         }
@@ -3452,14 +3452,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

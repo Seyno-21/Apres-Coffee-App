@@ -1068,11 +1068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.iOS\\Coffee-Shop-App.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.iOS\\Coffee-Shop-App.iOS.csproj",
       "projectName": "Coffee-Shop-App.iOS",
-      "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.iOS\\Coffee-Shop-App.iOS.csproj",
+      "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.iOS\\Coffee-Shop-App.iOS.csproj",
       "packagesPath": "C:\\Users\\theot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.iOS\\obj\\",
+      "outputPath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj": {
-              "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj"
+            "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj": {
+              "projectPath": "C:\\Users\\theot\\Documents\\GitHub\\Apres-Coffee-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App\\Coffee-Shop-App.csproj"
             }
           }
         }

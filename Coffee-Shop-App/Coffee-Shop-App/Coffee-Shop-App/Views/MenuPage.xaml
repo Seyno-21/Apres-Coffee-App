@@ -3,14 +3,15 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="Coffee_Shop_App.Views.AboutPage"
-    xmlns:vm="clr-namespace:Coffee_Shop_App.ViewModels">
+    xmlns:vm="clr-namespace:Coffee_Shop_App.ViewModels"
+    Title="Menu">
     
     
     
     <StackLayout BackgroundColor="#CFB091">
         
         <!-- Logo -->
-        <Image Source="apresCoffee.png" HeightRequest="300" Margin="0,30,0,0"/>
+        <Image Source="apresCoffee.png" HeightRequest="335" Margin="0,30,0,0"/>
 
         <!-- Buttons -->
         
